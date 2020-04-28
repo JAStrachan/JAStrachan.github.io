@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jastrachan.github.io/sitemap.xml
