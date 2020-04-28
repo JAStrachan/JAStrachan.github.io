@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://jastrachan.github.io"
 
+theme = "hyde"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -12,4 +14,9 @@ highlight_code = false
 build_search_index = false
 
 [extra]
+hyde_links = [
+    {url = "https://jastrachan.github.io", name = "home"},
+    {url = "https://github.com/JAStrachan", name = "github"},
+    {url = "https://jastrachan.github.io/about", name = "about"}
+]
 # Put all your custom variables here
