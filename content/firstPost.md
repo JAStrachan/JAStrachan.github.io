@@ -8,4 +8,4 @@ I'm a recent graduate working in Edinburgh and have fairly recently being furlou
 
 I built this small blog to help me stick to my goals. A way to document what I did and write about so I have a better understanding of it. Also getting better at technical writing would be nice.
 
-Next I want to start writing real rust. I'm thinking of creating an "Ideas Generator". A command line tool that reads words from text files to create small sentences that are "ideas". I'm basically ripping this idea off (Sebastian Lague)[https://www.youtube.com/watch?v=--GB9qyZJqg&list=PLFt_AvWsXl0ehjAfLFsp1PGaatzAwo0uK&index=8] but I think its a small thing that will get me started.
+Next I want to start writing real rust. I'm thinking of creating an "Ideas Generator". A command line tool that reads words from text files to create small sentences that are "ideas". I'm basically ripping this idea off [Sebastian Lague](https://www.youtube.com/watch?v=--GB9qyZJqg&list=PLFt_AvWsXl0ehjAfLFsp1PGaatzAwo0uK&index=8) but I think its a small thing that will get me started.
