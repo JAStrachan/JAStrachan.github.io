@@ -13,10 +13,12 @@ highlight_code = false
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+title = "James Strachan's Blog"
+
 [extra]
 hyde_links = [
-    {url = "https://jastrachan.github.io", name = "home"},
     {url = "https://github.com/JAStrachan", name = "github"},
-    {url = "https://jastrachan.github.io/about", name = "about"}
+    {url = "/about", name = "about"}
 ]
-# Put all your custom variables here
+
+
